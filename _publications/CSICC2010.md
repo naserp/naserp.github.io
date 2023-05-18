@@ -2,7 +2,7 @@
 title: "Data Mining for Malware Detection"
 collection: publications
 permalink: /publication/CSICC2010
-date: 2010-01-01
+date: 2010-02-01
 venue: 'CSICC'
 citation: A. Sami, H. Rahimi, B. Yadegari, N. Peiravian, S. Hasehmi, A. Hamze. ACM-SAC (2010)
 ---
