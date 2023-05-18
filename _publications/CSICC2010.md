@@ -2,10 +2,9 @@
 title: "Data Mining for Malware Detection"
 collection: publications
 permalink: /publication/CSICC2010
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2010-01-01
 venue: 'CSICC'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: A. Sami, H. Rahimi, B. Yadegari, N. Peiravian, S. Hasehmi, A. Hamze. ACM-SAC (2010)
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
