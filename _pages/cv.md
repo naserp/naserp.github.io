@@ -22,7 +22,7 @@ Work experience
   
 Skills
 ======
-ML/DL/NLP, Predictive Modeling, Representation Learning, Transfer Learning, Mining Massive Data Sets, Graph Mining, and Large Distributed Systems
+ML/DL/NLP, Predictive Modeling, Representation Learning, Transfer Learning, Mining Massive Data Sets, Graph Mining, and Large Distributed Systems.
 
 * Modeling:
   * TensorFlow, Keras, Scikit-learn, Pytorch, BERT, LSTM and Weka
