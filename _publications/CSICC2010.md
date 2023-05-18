@@ -6,8 +6,15 @@ date: 2010-01-01
 venue: 'CSICC'
 citation: A. Sami, H. Rahimi, B. Yadegari, N. Peiravian, S. Hasehmi, A. Hamze. ACM-SAC (2010)
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[[PDF]](http://www.cs.bu.edu/techreports/pdf/2013-007-open-flow-switch-alloy-model.pdf)
+[[code]](file:///Users/sbahargam/Pictures/bu%20website/public_html/files/openFlow.als)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Abstract
+Openflow provides a standard interface for separating a network into a data plane and a programmatic control
+plane. This enables easy network reconfiguration, but introduces
+the potential for programming bugs to cause network effects.
+To study OpenFlow switch behavior, we used Alloy to create a
+software abstraction describing the internal state of a network
+and its OpenFlow switches. This work is an attempt to model the
+static and dynamic behaviour a network built using OpenFlow
+switches.
