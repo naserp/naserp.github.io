@@ -11,15 +11,14 @@ redirect_from:
 
 Work experience
 ======
-* Twitter - ML Engineer, Tech Lead 
-* 2015 - present
-  * Github University
-  * Duties included: Tagging issues
+* Twitter, 2015 - present
+  * ML Engineer, Tech Lead 
+  * Trust & Safety, User Risk, User Behavior Prediction, NLP, Transfer Learning, Representation Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Shadow Networks, 2014 - 2015
+  * Data/ML Engineer
+  * Anomaly Detection, Intrusion Detection Systems, Security Engineering
+
   
 Skills
 ======
