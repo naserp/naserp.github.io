@@ -1,10 +1,10 @@
 ---
-title: "Malware Detection Based on Mining API Calls"
+title: "Data Mining for Malware Detection"
 collection: publications
-permalink: /publication/ACM2010
-date: 2010-03-01
-venue: 'ACM-SAC'
-citation: A. Sami, H. Rahimi, B. Yadegari, N. Peiravian, S. Hasehmi, A. Hamze. ACM-SAC (2010)
+permalink: /publication/CSICC2010
+date: 2010-01-01
+venue: 'CSICC'
+citation: H. Rahimi, B. Yadegari, A. Sami, N. Peiravian (2010)
 ---
 [[PDF]](http://www.cs.bu.edu/techreports/pdf/2013-007-open-flow-switch-alloy-model.pdf)
 [[code]](file:///Users/sbahargam/Pictures/bu%20website/public_html/files/openFlow.als)
