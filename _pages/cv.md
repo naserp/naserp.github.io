@@ -13,7 +13,7 @@ Work experience
 ======
 * Twitter, 2015 - present
   * ML Engineer, Tech Lead 
-  * Trust & Safety, User Risk, User Behavior Prediction, NLP, Transfer Learning, Representation Learning
+  * Transfer Learning, Representation Learning, Behavior Prediction, Content Moderation, Trust & Safety.
 
 * Shadow Networks, 2014 - 2015
   * Data/ML Engineer
