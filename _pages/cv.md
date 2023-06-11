@@ -17,7 +17,7 @@ Work experience
 
 * Shadow Networks, 2014 - 2015
   * Data/ML Engineer
-  * Anomaly Detection, Intrusion Detection Systems, Security Engineering
+  * Anomaly Detection, Intrusion Detection Systems.
 
   
 Skills
