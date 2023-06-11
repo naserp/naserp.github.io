@@ -7,8 +7,6 @@ tags:
   - Transfer Learning
   - 
 ---
-
-Understanding User Embeddings on Social Media
 User Embeddings in social media are a powerful technique to convert high-dimensional or non-tabular user features into a manageable low-dimensional space, facilitating a comprehensive user representation.
 The following is a [presentation]([https://docs.google.com/presentation/d/1g7o8lQBKkbj-hpfLZDDGBkcnEcXXpPvoWW5N96dOVAM/edit?usp=sharing](https://drive.google.com/file/d/1lz2vRLWH3QYZ7Sl21cTbBQrVm_ePhM99/view?usp=sharing)) I gave at a meet up.
 
