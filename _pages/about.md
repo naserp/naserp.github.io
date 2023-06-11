@@ -10,5 +10,6 @@ redirect_from:
 Hey There! I'm Naser, an ML engineer with a knack for bringing models to life and handling complexities. Over several years at Twitter, I've addressed some of the challenges in account and content integrity, with a bit of ML magic.
 
 In my spare time, I love biking around the stunning landscapes of San Francisco. It’s my way of enjoying nature and keeping in shape, especially along the scenic routes north of San Francisco. 
+
 On non-ride days I indulge in the simple pleasure of baking fresh sourdough bread, which I pair with fine cheese and high-quality olive oil.
 
