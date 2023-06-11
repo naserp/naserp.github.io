@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey there! I'm Naser, an ML engineer who's mastered the art of making algorithms dance and pedals spin. With years of experience at Twitter, I've tackled the toughest challenges in account and content integrity, all while sprinkling a bit of ML magic.
+Hey There! I'm Naser, an ML engineer with a knack for bringing models to life and handling complexities. Over several years at Twitter, I've addressed some of the challenges in account and content integrity, with a bit of ML magic.
 
-Outside of work, I love biking around the stunning landscapes of San Francisco. It's my way of enjoying nature and keeping in shape, especially along the scenic routes north of San Francisco.
+In my spare time, I love biking around the stunning landscapes of San Francisco. It’s my way of enjoying nature and keeping in shape, especially along the scenic routes north of San Francisco. 
+On non-ride days I indulge in the simple pleasure of baking fresh sourdough bread, which I pair with fine cheese and high-quality olive oil.
 
