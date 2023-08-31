@@ -9,6 +9,7 @@ tags:
 ---
 
 Spark provides a range of built-in solutions for complex issues, yet there are scenarios where its native capabilities fall short. To address this, Spark lets us create and register our own custom functions, known as User-Defined Functions or UDFs.
+[Sample Code](https://colab.research.google.com/drive/11pq1m0oxQZJh2EPhYwax4bLKbriK05Uv?usp=sharing)
 
 Spark SQL offers a built-in method to easily register UDFs by passing in a function in your programming language. Scala and Python can use native function and lambda syntax, but in Java we need to extend the UDF class.
 
