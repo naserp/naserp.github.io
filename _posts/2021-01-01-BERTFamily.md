@@ -19,6 +19,7 @@ In the world of Natural Language Processing (NLP), Bidirectional Encoder Represe
 [Paper](https://arxiv.org/abs/1706.03762) from Google
 
 It all originates from this and isn't actually a member of the BERT family. Rather, it serves as a sort of parent to BERT.
+
 "Attention Is All You Need" introduced the Transformer architecture, revolutionizing how we process language by relying solely on attention mechanisms. BERT built on this, using bidirectional attention to understand word context, setting new standards in NLP tasks like text classification and question answering. Together, they've significantly impacted modern NLP.
 
 # BERT
