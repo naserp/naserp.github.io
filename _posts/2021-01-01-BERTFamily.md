@@ -7,7 +7,7 @@ tags:
   - Trnasformer
   - NLP
 ---
-Here are some unedited, raw notes I've collected over the years on various transformers. They're pretty much my cheat sheets that I thought you might find interesting. If you spot any errors or have any suggestions, feel free to let me know. All of the images are sourced from the respective papers, Enjoy!
+In the world of Natural Language Processing (NLP), Bidirectional Encoder Representations from Transformers (BERT) has become a game-changer. Developed by Google, BERT has set new benchmarks for tasks like sentiment analysis, named entity recognition and text classification. However, BERT is not a monolithic model; it's a family of related architectures, each designed for specialized use-cases. This post aims to review the BERT family, highlighting their distinct capabilities, applications, and how they compare to each other.
 
    * [Attention is all you need](#attention-is-all-you-need)
    * [BERT](#bert)
@@ -18,7 +18,8 @@ Here are some unedited, raw notes I've collected over the years on various trans
 # Attention is all you need
 [Paper](https://arxiv.org/abs/1706.03762) from Google
 
-
+It all originates from this and isn't actually a member of the BERT family. Rather, it serves as a sort of parent to BERT.
+"Attention Is All You Need" introduced the Transformer architecture, revolutionizing how we process language by relying solely on attention mechanisms. BERT built on this, using bidirectional attention to understand word context, setting new standards in NLP tasks like text classification and question answering. Together, they've significantly impacted modern NLP.
 
 # BERT
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
