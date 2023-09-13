@@ -1,10 +1,10 @@
 ---
-title: 'Spark UDF Using BERT For Encoding Text In Scale'
-date: 2020-02-01
-permalink: /posts/2020/02/SparkUDF/
+title: 'Fine-tuning a Masked Language Model'
+date: 2022-01-01
+permalink: /posts/2022/01/FinetuneMLM/
 tags:
-  - Spark
-  - Distrbuted System
+  - Transfer Learning
+  - Multi-label-classification
   - BERT
 ---
 
