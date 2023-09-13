@@ -1,7 +1,7 @@
 ---
 title: 'Fine-tuning a Masked Language Model'
 date: 2022-01-01
-permalink: /posts/2022/01/FinetuneMLM/
+permalink: /posts/2022/01/FinetuneMaskedLanguageModelBert/
 tags:
   - Transfer Learning
   - Multi-label-classification
