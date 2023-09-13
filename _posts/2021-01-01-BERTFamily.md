@@ -27,6 +27,7 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 [Paper](https://arxiv.org/abs/1810.04805) from Google
 
+![pic](images/bert.png)
 
 BERT is based on subword token encoding and multi-layer transformer architecture. The transformer blocks are the same as the original transformer blocks introduced in “Attention is all you need” paper, however BERT only uses the Encoder part of the transformer architecture (and this is why it is not suitable for text generation tasks).
 
