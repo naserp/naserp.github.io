@@ -18,7 +18,7 @@ In the world of Natural Language Processing (NLP), Bidirectional Encoder Represe
 # Attention is all you need
 [Paper](https://arxiv.org/abs/1706.03762) from Google
 
-![pic](https://github.com/naserp/naserp.github.io/blob/images/attentionallyouneed.png)
+![pic](https://github.com/naserp/naserp.github.io/blob/master/images/attentionallyouneed.png)
 
 It all originates from this and isn't actually a member of the BERT family. Rather, it serves as a sort of parent to BERT.
 
@@ -29,7 +29,7 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 [Paper](https://arxiv.org/abs/1810.04805) from Google
 
-![pic](https://github.com/naserp/naserp.github.io/blob/images/bert.png)
+![pic](https://github.com/naserp/naserp.github.io/blob/master/images/bert.png)
 
 BERT is based on subword token encoding and multi-layer transformer architecture. The transformer blocks are the same as the original transformer blocks introduced in “Attention is all you need” paper, however BERT only uses the Encoder part of the transformer architecture (and this is why it is not suitable for text generation tasks).
 
