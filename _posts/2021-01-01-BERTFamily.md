@@ -74,6 +74,8 @@ Interestingly, ALBERT skips dropout. The powerful regularization effect of param
 
 [Paper](https://arxiv.org/abs/2008.11869) by ByteDance 
 
+![pic](https://github.com/naserp/naserp.github.io/blob/master/images/AMBERT.png?raw=true)
+
 AMBERT brings a new spin to BERT by using dual tokenization. It employs both a fine-grained (subword or word level) and a coarse-grained (phrase level) tokenizer on the input.
 
 Both inputs then use a shared BERT encoder. The process of a forward pass in the model includes these steps:
