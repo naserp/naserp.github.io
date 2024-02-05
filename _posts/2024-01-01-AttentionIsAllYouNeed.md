@@ -12,5 +12,6 @@ This implementation covers:
 * Multi-Head Attention
 * Cross-Attention
 * Masked Self-Attention
-My [Colab notebook](https://colab.research.google.com/drive/1N0ztPudXeeRgo_wzhKAiL1VAe4ywpUrn?usp=sharing).
+  
+[Colab Notebook](https://colab.research.google.com/drive/1N0ztPudXeeRgo_wzhKAiL1VAe4ywpUrn?usp=sharing).
  
