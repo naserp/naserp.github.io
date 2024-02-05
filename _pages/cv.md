@@ -13,7 +13,7 @@ Work experience
 ======
 * Twitter, 2015 - present
   * ML Engineer, Tech Lead 
-  * Transfer Learning, Representation Learning, Behavior Prediction, Content Moderation, Trust & Safety.
+  * Transfer Learning, Representation Learning, Behavior Prediction, Text Classification, Content Moderation.
 
 * Shadow Networks, 2014 - 2015
   * Data/ML Engineer
@@ -22,14 +22,17 @@ Work experience
   
 Skills
 ======
-ML/DL/NLP, Predictive Modeling, Representation Learning, Transfer Learning, Mining Massive Data Sets, Graph Mining, and Large Distributed Systems.
 
+* Natural Language Processing:
+  * Text Classification, Sentiment Analysis, Transformers and Language Modeling
+* Machine Learning/Deep Learning:
+  * Predictive Modeling, Representation Learning, Transfer Learning, Ranking and Clustring
 * Modeling:
   * TensorFlow, Keras, Scikit-learn, Pytorch, BERT, LSTM and Weka
 * Language:
-  * Python, Scala, SQL, C++, C# and Shell Script
+  * Python, Scala, SQL, C++ and Shell Script
 * Data Tool:
-  * Scalding, Spark, BigQuery, Airflow, Beam, Hadoop and Map/Reduce
+  * Scalding, Spark, BigQuery, Airflow, Hadoop and Map/Reduce
 
 Education
 ======
