@@ -1,6 +1,6 @@
 ---
 title: 'Attention Is All You Need, Implementation'
-date: 2024-01-01
+date: 2023-01-01
 permalink: /posts/2024/01/AttentionImplementation/
 tags:
   - Transformers
