@@ -1,6 +1,6 @@
 ---
-title: 'My AI Safety Reading Listn'
-date: 2023-01-02
+title: 'My AI Safety Reading List'
+date: 2024-01-02
 permalink: /posts/2024/02/ReadingList/
 tags:
   - AI Safety
