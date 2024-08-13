@@ -1,5 +1,5 @@
 ---
-title: 'My AI Safety Reading List'
+title: 'My Recent Reading List'
 date: 2024-01-02
 permalink: /posts/2024/02/ReadingList/
 tags:
@@ -8,6 +8,7 @@ tags:
 ---
 
 My AI Safety Reading List: Recent Papers and Blog Posts
+
 As AI keep evolving, making sure it’s safe and ethical is getting more important. I've been reading some interesting papers and blog posts that look into different aspects of AI safety, from protecting human-AI chats to reducing risks in large language models (LLMs). Here's a quick look at what I've been digging into:
 
 * **Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations**
