@@ -24,17 +24,18 @@ Skills
 ======
 
 * Natural Language Processing:
-  * Text Classification, Sentiment Analysis, Transformers and Language Modeling
+  * Text Classification, Transformers, Large Language Modeling, User/Content Modeling
 * Machine Learning/Deep Learning:
-  * Predictive Modeling, Representation Learning, Transfer Learning, Ranking and Clustring
+  * Predictive Modeling, Representation Learning, Transfer Learning, Ranking, Two Tower Networks
 * Modeling:
-  * TensorFlow, Keras, Scikit-learn, Pytorch, BERT, LSTM and Weka
+  * TensorFlow, Keras, Pytorch, LSTM, BERT, GPT
 * Language:
-  * Python, Scala, SQL, C++ and Shell Script
+  * Python, Scala, SQL, Golang, C++ and Shell Script
 * Data Tool:
-  * Scalding, Spark, BigQuery, Airflow, Hadoop and Map/Reduce
+  * Scalding, Spark, BigQuery, Airflow, KubeFlow, MLflow, Hadoop, Map/Reduce
 
 Education
 ======
-* Bachelor of Computer Engineering 2007
 * Master in Computer Science, 2013
+* Bachelor of Computer Engineering 2007
+
