@@ -31,4 +31,5 @@ Lilian Weng’s blog post goes over strategies to reduce toxicity in language mo
 This paper looks at how to balance predictability and surprise in generative models, and how these factors influence the behavior and safety of AI systems. Understanding this balance is key to designing models that are both creative and safe.
 [Read the paper](https://arxiv.org/abs/2202.07785)
 
-These reads have given me a deeper understanding of the challenges and solutions in AI safety, and show how important it is to take steps to prevent harmful outcomes in AI systems. Whether you're into AI research, development, or just interested in AI ethics, these resources offer valuable insights into the ongoing efforts to make AI safer for everyone.
+These reads have given me a deeper understanding of the challenges and solutions in AI safety.
+
